@@ -1,13 +1,10 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center"> My Portfolio </h1>
+  <h1 align="center">My Portfolio</h1>
   <p align="center">
     
     <br />
-    <a href="https://michaelscott-nextjstemp.vercel.app/">Go To Site!</a>
+    <a href="https://michaelscott-nextjstemp.vercel.app/">Go to site!</a>
   </p>
 </p>
-
-
 
