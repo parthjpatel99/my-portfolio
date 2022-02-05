@@ -49,13 +49,13 @@ export const userinfo = {
         visible: true, //set this to false if you want to omit this section
         educationList: [
             {
-                time: 'Aug 2021 - Present', //timespan
+                time: "Aug '21 - Present", //timespan
                 title: 'MS in Computer Engineering', //eg. BTech in Compuster Engineering
                 organization: 'Stony Brook University', //eg. VJTI, Mumbai
-                description: 'Expected Graduation: December 2022' //eg. secured a cgpa of 9.25 in all sems appeared in so far
+                description: "Expected Graduation: December '22" //eg. secured a cgpa of 9.25 in all sems appeared in so far
             },
             {
-                time: 'July 2017 - May 2021',
+                time: "July '17 - May '21",
                 title: 'BTech in Information Technology',
                 organization: 'Dharmsinh Desai University',
                 description: 'GPA: 8.19/10.0'
@@ -89,7 +89,7 @@ export const userinfo = {
 
 export const headings = {
     //you can customise all the headings here.
-    workHomePage: 'Projects',
+    workHomePage: 'Work',
     workMainPage: 'Projects',
     capabilities: 'Capabilities',
     about: 'About Me',
@@ -101,7 +101,7 @@ export const headings = {
 
 export const ctaTexts = {
     //you can customise all the cta texts here.
-    landingCTA: 'My projects',
+    landingCTA: 'My work',
     workCTA: 'View All',
     capabCTA: 'Get in Touch',
     educationCTA: 'About Me',

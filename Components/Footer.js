@@ -22,7 +22,7 @@ const Footer = ({ currentTheme }) => {
                     <li className={styles.listHeading}>Pages</li>
                     <Link href='/'><a><li>Home</li></a></Link>
                     <Link href='/#about'><a><li>About</li></a></Link>
-                    <Link href='/work'><a><li>Projects</li></a></Link>
+                    <Link href='/work'><a><li>Work</li></a></Link>
                     <Link href='/contact'><a><li>Contact</li></a></Link>
                 </ul>
             </div>
