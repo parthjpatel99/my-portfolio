@@ -20,7 +20,7 @@ export const userinfo = {
     greeting: {
         //this text goes on your landing page
         title: "Hi, I am Parth.",
-        subtitle: "I am graduate student at Stony Brook University pursuing masters in science in Computer Engineering. I am interested in Computer Vision, Android and Full-stack development among other things."
+        subtitle: "I am graduate student at Stony Brook University pursuing masters in science in Computer Engineering who is interested in Computer Vision, Android and Full-stack development among other things. I am actively looking for software development engineer roles (Internships & Full-time)."
     },
     capabilities: [
         //this text goes on your home page in table format.
