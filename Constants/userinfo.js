@@ -42,7 +42,7 @@ export const userinfo = {
     ],
     about: {
         //this text goes at the bottom of your home page.
-        content: "'I am an aspiring software development engineer who is currently exploring with different technologies to see what fits my interests. I like to code and solve critical software engineering problems. I also like to build beautiful things. My short term goal is to be able to build beautiful android applications.'",
+        content: "'I am an aspiring software development engineer who is currently exploring different technologies to see what fits my interests. I like to code and solve critical software engineering problems. I also like to build beautiful things. My short term goal is to be able to build beautiful Android applications.'",
         resume: "https://www.dropbox.com/s/pmk58ugobvqeq2k/Resume.pdf?dl=0" //link your resume here. it can be drive link or any other link
     },
     education: {
